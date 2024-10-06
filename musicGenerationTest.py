@@ -15,6 +15,12 @@ def get_pitch_class_set(scale, key):
     pitch_class_set = [note % 12 for note in scale]
     return sorted(list(set(pitch_class_set)))
 
+def add_safe_note(midi, track, channel, pitch, time, duration, volume):
+    try:
+        midi.addNote(track, channel, pitch, time, duration, volume)
+    except ValueError as e:
+        print(f"Warning: Could not add note. {e}")
+
 def generate_tone_row(image_data):
     row = list(range(12))
     random.shuffle(row)
