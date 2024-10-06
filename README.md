@@ -17,6 +17,8 @@ Welcome to **Powehi**, an immersive web application where you explore the univer
 
 **Powehi** combines space exploration with gamification to create an engaging experience. Using a simple scrolling mechanism, users will journey from Earth to the far reaches of space, accompanied by translated audio and educational facts about each cosmic object. At the end of each level, players must complete a quiz to unlock the next destination. Along the way, users are assisted by a character named *Sun*, who provides helpful explanations for complex concepts.
 
+You may access the demo here: https://drive.google.com/file/d/1YduIJkN_j07BB2PuufR48H-dm1WwJdfA/view?usp=sharing
+
 ---
 
 ## Game Flow
