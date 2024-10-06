@@ -3,6 +3,8 @@
 
 Welcome to **Powehi**, an immersive web application where you explore the universe through stunning images captured by the **James Webb Space Telescope**. In this interactive, educational experience, you’ll navigate through space, unlock cosmic knowledge, and engage in quizzes to progress through the game. Designed for users of all backgrounds, Powehi makes learning about the universe both fun and accessible.
 
+![Landing](landing.png)
+
 ---
 
 ## Table of Contents
@@ -13,9 +15,7 @@ Welcome to **Powehi**, an immersive web application where you explore the univer
 
 ## Overview
 
-**Powehi** combines space exploration with gamification to create an engaging experience. Using a simple scrolling mechanism, users will journey from Earth to the far reaches of space, accompanied by stunning visuals and educational facts about each cosmic object. At the end of each level, players must complete a quiz to unlock the next destination. Along the way, users are assisted by a character named *Sun*, who provides helpful explanations for complex concepts.
-
-
+**Powehi** combines space exploration with gamification to create an engaging experience. Using a simple scrolling mechanism, users will journey from Earth to the far reaches of space, accompanied by translated audio and educational facts about each cosmic object. At the end of each level, players must complete a quiz to unlock the next destination. Along the way, users are assisted by a character named *Sun*, who provides helpful explanations for complex concepts.
 
 ---
 
@@ -41,10 +41,6 @@ Welcome to **Powehi**, an immersive web application where you explore the univer
 
 7. **Leaderboard**  
    Players are ranked based on how quickly they complete the game. Compete against friends or challenge yourself to improve your time.
-
-8. **Archive Access**  
-   After completing the game, unlock an archive of over 500 images from JWST, each with its own unique music and descriptive content.
-
 ---
 
 ## Key Features
@@ -79,17 +75,5 @@ Welcome to **Powehi**, an immersive web application where you explore the univer
 ---
 
 ## Credits
+### Jyotsna, Tanya, Mirha, Zainab
 
-- **Development Team**: [Your Name], [Team Members]
-- **Music Generation**: [Contributor Names]
-- **Design and UI**: [Designer Names]
-- **Special Thanks**: [Contributors, Advisors]
-
----
-
-## Contact
-
-If you have any questions, feedback, or issues, feel free to contact us at:
-
-- **Email**: [your-email@example.com]
-- **Website**: [your-website.com]  
